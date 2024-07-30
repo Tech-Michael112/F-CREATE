@@ -1,3 +1,8 @@
-import fbcreate
-if __name__=='__main__':
-  main()
+#import fbcreate
+class main:
+  def __init__(self):
+    self.wel=wel 
+    main()
+  import fbcreate
+
+main()
